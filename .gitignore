@@ -1,0 +1,17 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+.venv/
+__pycache__/
+*.pyc
+research/data/
+research/runs/
+*.jks
+*.keystore
+emulator-*.log
+deliverables/*
+!deliverables/SmishGuard-0.1.0-debug.apk
+!deliverables/SmishGuard-source.zip
+!deliverables/SHA256SUMS.txt
