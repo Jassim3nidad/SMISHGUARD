@@ -1,0 +1,2 @@
+86c92f1fe6105bcea5dfe804fef6859f1010d9dc9946989f31ba67ca51c11a1d  SmishGuard-0.1.0-debug.apk
+d2d287e5a1654738d240a52a0f20c4eebb0fd6b3f14881b51b4113a6809dbbd7  SmishGuard-source.zip
